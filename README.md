@@ -5,7 +5,7 @@ The XML files were downloaded and extracted with [`download.py`](./download.py) 
 
 `download.py` is dependent on the Python module [SourceForgeDownloader](https://github.com/ReneNyffenegger/py-tool-SourceForgeDownloader).
 
-# Observerations
+# Observations
 
 ## Format
 
