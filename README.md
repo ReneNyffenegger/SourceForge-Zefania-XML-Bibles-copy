@@ -16,6 +16,16 @@ format set to `Zefania XML Dictionary Markup Language`. All other bibles have `Z
 
 The following identifiers are not unique and appear at least twice: `BWE`, `BZY2000`, `Byz`, `CPDV`, `CZBKR`, `CZEB21`, `CZECEP`, `GB`, `GERNEUE`, `GerNeUe` (4x), `KJV`, `LUT.1545.LH`, `NHEB`, `NHEBJE`, `NHEBME`, `OffBiLe`, `OffBiSt`, `PAT80`, `RWEBSTER`, `SCH1951`, `TB`, `TISCHENDORF` (3x), `luth1912`.
 
+## Languages
+
+Language codes are applied inconsistently.
+
+German appears primarily as `GER` but also as `DEUTSCH` and `DE`.
+
+Dutch is represented solely by the two-letter code `NL`.
+
+In addition, some codes are rendered in lowercase rather than uppercase.
+
 # Corrections
 
 **GRC/Westcott-Hort Greek NT/Westcott and Hort with NA27 UBS4 variants/SF_2022-09-19_GRC_WHNU_(Westcott and Hort with NA27 UBS4 variants).xml**:\
