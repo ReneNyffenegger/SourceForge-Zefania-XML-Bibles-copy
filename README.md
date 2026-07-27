@@ -5,6 +5,13 @@ The XML files were downloaded and extracted with [`download.py`](./download.py) 
 
 `download.py` is dependent on the Python module [SourceForgeDownloader](https://github.com/ReneNyffenegger/py-tool-SourceForgeDownloader).
 
+# Observerations
+
+## Format
+
+[torrey's Topical Textbook](https://github.com/ReneNyffenegger/SourceForge-Zefania-XML-Bibles-copy/blob/master/Bibles/ENG/Torreys%20Topical%20Textbook/SF_2006-03-02_ENG_TTB_(TORREY'S%20TOPICAL%20TEXTBOOK).xml) is the only “Bible” with
+format set to `Zefania XML Dictionary Markup Language`. All other bibles have `Zefania XML Bible Markup Language`.
+
 # Corrections
 
 **GRC/Westcott-Hort Greek NT/Westcott and Hort with NA27 UBS4 variants/SF_2022-09-19_GRC_WHNU_(Westcott and Hort with NA27 UBS4 variants).xml**:\
