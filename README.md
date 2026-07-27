@@ -9,7 +9,7 @@ The XML files were downloaded and extracted with [`download.py`](./download.py) 
 
 ## Format
 
-[torrey's Topical Textbook](https://github.com/ReneNyffenegger/SourceForge-Zefania-XML-Bibles-copy/blob/master/Bibles/ENG/Torreys%20Topical%20Textbook/SF_2006-03-02_ENG_TTB_(TORREY'S%20TOPICAL%20TEXTBOOK).xml) is the only “Bible” with
+[Torrey's Topical Textbook](https://github.com/ReneNyffenegger/SourceForge-Zefania-XML-Bibles-copy/blob/master/Bibles/ENG/Torreys%20Topical%20Textbook/SF_2006-03-02_ENG_TTB_(TORREY'S%20TOPICAL%20TEXTBOOK).xml) is the only “Bible” with
 format set to `Zefania XML Dictionary Markup Language`. All other bibles have `Zefania XML Bible Markup Language`.
 
 # Corrections
