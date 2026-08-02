@@ -12,9 +12,11 @@ The XML files were downloaded and extracted with [`download.py`](./download.py) 
 [Torrey's Topical Textbook](https://github.com/ReneNyffenegger/SourceForge-Zefania-XML-Bibles-copy/blob/master/Bibles/ENG/Torreys%20Topical%20Textbook/SF_2006-03-02_ENG_TTB_(TORREY'S%20TOPICAL%20TEXTBOOK).xml) is the only “Bible” with
 format set to `Zefania XML Dictionary Markup Language`. All other bibles have `Zefania XML Bible Markup Language`.
 
-## Non unique identifiers
+## Identifiers
 
 The following identifiers are not unique and appear at least twice: `BWE`, `BZY2000`, `Byz`, `CPDV`, `CZBKR`, `CZEB21`, `CZECEP`, `GB`, `GERNEUE`, `GerNeUe` (4x), `KJV`, `LUT.1545.LH`, `NHEB`, `NHEBJE`, `NHEBME`, `OffBiLe`, `OffBiSt`, `PAT80`, `RWEBSTER`, `SCH1951`, `TB`, `TISCHENDORF` (3x), `luth1912`.
+
+The identifier `Allioli_Arndt_1914_nur_Bibeltext_alte_Psalmennr_deutsch` is exceptionally long.
 
 ## Languages
 
