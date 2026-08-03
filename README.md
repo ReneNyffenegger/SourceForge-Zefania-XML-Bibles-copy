@@ -23,13 +23,17 @@ The identifier `Allioli_Arndt_1914_nur_Bibeltext_alte_Psalmennr_deutsch` is exce
 
 The `bnumber` attribute (book number) in the `<BIBLEBOOK>` tag is incorrect in:
 - [ARA/Smith Van Dyke Arabic Bible/SF_2009-01-20_ARA_ARASVD_(SMITH VAN DYKE ARABIC BIBLE).xml](https://github.com/ReneNyffenegger/SourceForge-Zefania-XML-Bibles-copy/blob/download/2026-07-26/Bibles/ARA/Smith%20Van%20Dyke%20Arabic%20Bible/SF_2009-01-20_ARA_ARASVD_(SMITH%20VAN%20DYKE%20ARABIC%20BIBLE).xml):\
-`15` occurs twice and `13` is missing.  The existing `14` should be changed to `13`, and one of the two `15`s should be changed to `14`.
+`15` occurs twice and `13` is missing.  The existing `14` should be changed to `13`, and one of the two `15`s should be changed to `14`.\
+Fixed in [commit d17d92d](https://github.com/ReneNyffenegger/SourceForge-Zefania-XML-Bibles-copy/commit/d17d92d)
 - [FRE/La Bible Ostervald 1877/SF_2013-04-19_FRE_BO1877_(OSTERVALD 1877).xml](https://github.com/ReneNyffenegger/SourceForge-Zefania-XML-Bibles-copy/blob/download/2026-07-26/Bibles/FRE/La%20Bible%20Ostervald%201877/SF_2013-04-19_FRE_BO1877_(OSTERVALD%201877).xml):\
-`9` and `39` are missing, `10` and `40` occur twice.
+`9` and `39` are missing, `10` and `40` occur twice.\
+Fixed in [commit df16908](https://github.com/ReneNyffenegger/SourceForge-Zefania-XML-Bibles-copy/commit/df16908)
 - [ENG/New Heart English Bible/SF_2015-08-15_ENG_NHEB_(NEW HEART ENGLISH BIBLE).xml](https://github.com/ReneNyffenegger/SourceForge-Zefania-XML-Bibles-copy/blob/download/2026-07-26/Bibles/ENG/New%20Heart%20English%20Bible/SF_2015-08-15_ENG_NHEB_(NEW%20HEART%20ENGLISH%20BIBLE).xml):\
-`11` is missing, `22` occurs twice.
+`11` is missing, `22` occurs twice.\
+Fixed in [commit a505dfe](https://github.com/ReneNyffenegger/SourceForge-Zefania-XML-Bibles-copy/commit/a505dfe)
 - [ENG/King James/King James Version with Apokryphen/SF_2009-01-23_ENG_KJVAK_(KING JAMES VERSION WITH APOKRYPHEN).xml](https://github.com/ReneNyffenegger/SourceForge-Zefania-XML-Bibles-copy/blob/download/2026-07-26/Bibles/ENG/King%20James/King%20James%20Version%20with%20Apokryphen/SF_2009-01-23_ENG_KJVAK_(KING%20JAMES%20VERSION%20WITH%20APOKRYPHEN).xml)):\
- `87` occurs twice.
+ `87` occurs twice.\
+Fixed in [commit 8e365f2](https://github.com/ReneNyffenegger/SourceForge-Zefania-XML-Bibles-copy/commit/8e365f2)
 
 ## Languages
 
